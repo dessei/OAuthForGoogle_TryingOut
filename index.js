@@ -1,6 +1,6 @@
 window.onload = function () {
         google.accounts.id.initialize({
-        client_id: "787718893823-ief5upq817odgurk45ga691p9m3ejd57.apps.googleusercontent.com",
+        client_id: "721028352816-l9a1rdbuie529l8pmimtgo0bkmnt56bb.apps.googleusercontent.com",
         callback: handleCredentialResponse
         });
         google.accounts.id.renderButton(
